@@ -1,6 +1,6 @@
 # Hello!
 
-I'm **Ryan**, or **void**, and I am a novice, hobbyist programmer from Australia. I am the owner and webmaster of https://voied.me.
+I'm **Ryan** — or **void** — and I am a novice, hobbyist programmer from Australia. I am the owner and webmaster of https://voied.me.
 
 ## Contact
 
